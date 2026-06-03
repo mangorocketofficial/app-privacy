@@ -13,6 +13,8 @@
 - 컴퓨터활용능력2급 (`com.onepunch.computer2`): https://mangorocketofficial.github.io/app-privacy/computer2/
 - 직업상담사2급 (`com.onepunch.jigeopsangdamsa2geup`): https://mangorocketofficial.github.io/app-privacy/jigeopsangdamsa2geup/
 - 굴착기운전기능사 (`com.onepunch.gulchakgi`): https://mangorocketofficial.github.io/app-privacy/gulchakgi/
+- 산업안전산업기사 (`com.onepunch.indsafetyind`): https://mangorocketofficial.github.io/app-privacy/indsafetyind/
+- 조주기능사 (`com.onepunch.joju`): https://mangorocketofficial.github.io/app-privacy/joju/
 - 한식조리기능사 (`com.onepunch.hansikjorigineungsa`): https://mangorocketofficial.github.io/app-privacy/hansikjorigineungsa/
 - 한국사 능력검정(기본) (`com.onepunch.krhistorybasic`): https://mangorocketofficial.github.io/app-privacy/kr_history_basic/
 - 제과기능사 (`com.onepunch.jegwagineungsa`): https://mangorocketofficial.github.io/app-privacy/jegwagineungsa/
